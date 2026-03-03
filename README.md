@@ -88,4 +88,4 @@ You can extend this project by adding:
 
 ## 📸 Gameplay
 
-![Flappy Bird Gameplay](images/gameplay.png)
+![Flappy Bird Gameplay](FlappyBird/images/gameplay.png)
