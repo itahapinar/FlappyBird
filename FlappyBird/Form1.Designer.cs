@@ -173,7 +173,7 @@ namespace FlappyBird
             Controls.Add(pbGround);
             Controls.Add(pbBackGround);
             Name = "Form1";
-            Text = "Form1";
+            Text = "r";
             Load += Form1_Load;
             pbBackGround.ResumeLayout(false);
             pbBackGround.PerformLayout();
