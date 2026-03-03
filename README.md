@@ -85,3 +85,7 @@ You can extend this project by adding:
 * Main menu screen
 * Restart functionality
 * Improved sprite animations
+
+## 📸 Gameplay
+
+![Flappy Bird Gameplay](images/gameplay.png)
