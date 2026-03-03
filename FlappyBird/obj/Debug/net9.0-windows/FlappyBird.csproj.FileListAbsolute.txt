@@ -1,0 +1,17 @@
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\bin\Debug\net9.0-windows\FlappyBird.exe
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\bin\Debug\net9.0-windows\FlappyBird.deps.json
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\bin\Debug\net9.0-windows\FlappyBird.runtimeconfig.json
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\bin\Debug\net9.0-windows\FlappyBird.dll
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\bin\Debug\net9.0-windows\FlappyBird.pdb
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\obj\Debug\net9.0-windows\FlappyBird.Properties.Resources.resources
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\obj\Debug\net9.0-windows\FlappyBird.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\obj\Debug\net9.0-windows\FlappyBird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\obj\Debug\net9.0-windows\FlappyBird.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\obj\Debug\net9.0-windows\FlappyBird.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\obj\Debug\net9.0-windows\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\obj\Debug\net9.0-windows\FlappyBird.dll
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\obj\Debug\net9.0-windows\refint\FlappyBird.dll
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\obj\Debug\net9.0-windows\FlappyBird.pdb
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\obj\Debug\net9.0-windows\FlappyBird.genruntimeconfig.cache
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\obj\Debug\net9.0-windows\ref\FlappyBird.dll
+C:\Users\Taha\Desktop\Projects\FlappyBird\FlappyBird\obj\Debug\net9.0-windows\FlappyBird.Form1.resources
